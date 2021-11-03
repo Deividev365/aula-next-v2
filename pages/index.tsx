@@ -8,7 +8,7 @@ export default function Home() {
         <Link href="/CSR">
           <a>
             <div className="px-6 py-1 mb-4 text-lg font-bold text-white bg-blue-500 rounded shadow hover:bg-blue-600">
-              CSR
+              CSR(SPA)
             </div>
           </a>
         </Link>
